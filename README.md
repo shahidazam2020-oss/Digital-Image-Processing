@@ -342,6 +342,13 @@ Explore the repository, share your feedback, and connect with me to exchange tec
 
 If you find this project useful for learning or experimentation, consider giving the repository a ⭐.
 
+<p align="center">
+
+**⭐ Star this repository • 🍴 Fork it • 🧠 Explore the code • 🚀 Build something new**
+
+</p>
+
+---
 **Built with curiosity, code, and a passion for computing.**
 
 <sub>Maintained by Shahid Azam | Digital Image Processing with MATLAB</sub>
