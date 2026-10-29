@@ -271,7 +271,19 @@ This repository was developed as part of my **Digital Image Processing** coursew
 The main purpose of this repository is to demonstrate how different image processing techniques can be implemented using **MATLAB** and the **Image Processing Toolbox**.
 
 The programs are designed to provide practical understanding of how digital images can be enhanced, analyzed, segmented, compressed, transformed, and processed.
-<br><br>
+
+---
+## 🛠️ Technologies Used
+
+• MATLAB  
+• MATLAB Image Processing Toolbox  
+• Digital Image Processing Techniques  
+• Fourier Transform  
+• PCA  
+• Image Segmentation  
+• Image Enhancement  
+• Edge Detection  
+• Morphological Processing  
 
 **Interested in programming, computational imaging, and intelligent systems?**
 
