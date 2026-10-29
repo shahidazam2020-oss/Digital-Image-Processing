@@ -319,6 +319,9 @@ Explore the repository, share your feedback, and connect with me to exchange tec
 </div>
 
 ---
+# 🤝 Connect With Me
+
+<p align="center">
 
 <div align="center">
 
