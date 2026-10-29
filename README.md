@@ -263,6 +263,14 @@ I enjoy building complete software systems—from networking and operating syste
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
+---
+## 📚 About This Repository
+
+This repository was developed as part of my **Digital Image Processing** coursework and practical work.
+
+The main purpose of this repository is to demonstrate how different image processing techniques can be implemented using **MATLAB** and the **Image Processing Toolbox**.
+
+The programs are designed to provide practical understanding of how digital images can be enhanced, analyzed, segmented, compressed, transformed, and processed.
 <br><br>
 
 **Interested in programming, computational imaging, and intelligent systems?**
