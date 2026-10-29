@@ -249,6 +249,7 @@ Please ensure that contributed code and sample images are shared in accordance w
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
 
+Institute of Management Sciences, Peshawar, Pakistan
 <a href="https://github.com/shahidazam2020-oss">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
