@@ -336,11 +336,11 @@ Explore the repository, share your feedback, and connect with me to exchange tec
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<div align="center">
 
-### ⭐ FIND THIS REPOSITORY USEFUL?
+---
+# ⭐ Repository
 
-Explore the code, learn from the implementations, and consider giving the repository a star if you find it helpful.
+If you find this project useful for learning or experimentation, consider giving the repository a ⭐.
 
 **Built with curiosity, code, and a passion for computing.**
 
