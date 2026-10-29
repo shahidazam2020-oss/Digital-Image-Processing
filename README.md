@@ -304,6 +304,13 @@ The code can be further improved, optimized, and combined to develop larger Comp
 • Integrating image processing with Machine Learning
 • Integrating image processing with Deep Learning
 
+---
+# 📖 Course
+
+**Digital Image Processing**
+
+**Practical implementation using MATLAB.**
+
 
 **Interested in programming, computational imaging, and intelligent systems?**
 
