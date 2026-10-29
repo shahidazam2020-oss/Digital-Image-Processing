@@ -246,7 +246,8 @@ Please ensure that contributed code and sample images are shared in accordance w
 # 👨‍💻 About Me
 ## Shahid Azam
 
-**Computer Science | Artificial Intelligence | MATLAB Programming**
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
 <a href="https://github.com/shahidazam2020-oss">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
