@@ -243,7 +243,8 @@ Please ensure that contributed code and sample images are shared in accordance w
 
 <div align="center">
 
-### Shahid Azam
+# 👨‍💻 About Me
+## Shahid Azam
 
 **Computer Science | Artificial Intelligence | MATLAB Programming**
 
