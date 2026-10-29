@@ -239,10 +239,7 @@ If you would like to improve this project:
 
 Please ensure that contributed code and sample images are shared in accordance with their applicable licenses.
 
-## 📬 CONNECT WITH ME
-
-<div align="center">
-
+---
 # 👨‍💻 About Me
 ## Shahid Azam
 
