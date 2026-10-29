@@ -285,6 +285,13 @@ The programs are designed to provide practical understanding of how digital imag
 • Edge Detection  
 • Morphological Processing  
 
+# 📌 Note
+
+These programs were developed primarily for academic and educational purposes. They demonstrate individual Digital Image Processing concepts through practical MATLAB implementations.
+
+The code can be further improved, optimized, and combined to develop larger Computer Vision and Image Processing applications.
+
+
 **Interested in programming, computational imaging, and intelligent systems?**
 
 Explore the repository, share your feedback, and connect with me to exchange technical ideas.
