@@ -349,6 +349,9 @@ If you find this project useful for learning or experimentation, consider giving
 </p>
 
 ---
+# 📜 License
+
+This project is intended for educational, research, and experimental purposes.
 **Built with curiosity, code, and a passion for computing.**
 
 <sub>Maintained by Shahid Azam | Digital Image Processing with MATLAB</sub>
