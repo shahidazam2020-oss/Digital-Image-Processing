@@ -253,6 +253,8 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
 
+- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
+
 
 <a href="https://github.com/shahidazam2020-oss">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
