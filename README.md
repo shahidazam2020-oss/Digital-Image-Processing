@@ -291,6 +291,19 @@ These programs were developed primarily for academic and educational purposes. T
 
 The code can be further improved, optimized, and combined to develop larger Computer Vision and Image Processing applications.
 
+# 🚀 Future Improvements
+
+**Possible future improvements include:**
+
+• Adding detailed comments to every MATLAB program
+• Adding sample input and output images
+• Improving code organization
+• Adding result comparisons between algorithms
+• Adding performance evaluation
+• Developing a MATLAB GUI for selected techniques
+• Integrating image processing with Machine Learning
+• Integrating image processing with Deep Learning
+
 
 **Interested in programming, computational imaging, and intelligent systems?**
 
