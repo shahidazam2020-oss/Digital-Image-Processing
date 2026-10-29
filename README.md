@@ -256,6 +256,7 @@ I enjoy building complete software systems—from networking and operating syste
 - 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
 - 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
 - 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
+- 📬 **Contact:** shahidazam2020@gmail.com
 
 
 <a href="https://github.com/shahidazam2020-oss">
