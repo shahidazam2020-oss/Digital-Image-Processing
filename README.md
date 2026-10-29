@@ -352,6 +352,10 @@ If you find this project useful for learning or experimentation, consider giving
 # 📜 License
 
 This project is intended for educational, research, and experimental purposes.
+
+If you reuse or extend this project, please provide appropriate attribution to the original work and dataset sources where applicable.
+
+---
 **Built with curiosity, code, and a passion for computing.**
 
 <sub>Maintained by Shahid Azam | Digital Image Processing with MATLAB</sub>
