@@ -364,3 +364,5 @@ If you reuse or extend this project, please provide appropriate attribution to t
 
 ---
 # ⭐ If You Find This Project Useful
+
+If this project helps you understand machine learning for healthcare prediction, consider:
