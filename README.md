@@ -361,3 +361,6 @@ If you reuse or extend this project, please provide appropriate attribution to t
 <sub>Maintained by Shahid Azam | Digital Image Processing with MATLAB</sub>
 
 </div>
+
+---
+# ⭐ If You Find This Project Useful
