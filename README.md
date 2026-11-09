@@ -368,3 +368,5 @@ If you reuse or extend this project, please provide appropriate attribution to t
 If this project helps you understand machine learning for healthcare prediction, consider:
 
 ⭐ **Starring the repository**
+
+🍴 **Forking the project**
