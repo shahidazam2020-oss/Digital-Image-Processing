@@ -20,6 +20,7 @@ A collection of MATLAB programs demonstrating digital image processing technique
   <img src="https://img.shields.io/badge/⚡_MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
 </a>
 
+<br><br>
 <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=mathworks" alt="MATLAB">
 <img src="https://img.shields.io/badge/Domain-Digital%20Image%20Processing-0A66C2?style=flat-square" alt="Digital Image Processing">
 <img src="https://img.shields.io/badge/Focus-Image%20Analysis-2EA44F?style=flat-square" alt="Image Analysis">
