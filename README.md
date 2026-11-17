@@ -27,6 +27,16 @@ A collection of MATLAB programs demonstrating digital image processing technique
 <img src="https://img.shields.io/badge/Focus-Image%20Analysis-2EA44F?style=flat-square" alt="Image Analysis">
 <img src="https://img.shields.io/badge/Repository-Open%20for%20Exploration-8250DF?style=flat-square" alt="Repository Status">
 
+
+  <a href="https://github.com/shahidazam2020-oss/Digital-Image-Processing/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Digital-Image-Processing?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Digital-Image-Processing/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Digital-Image-Processing?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Digital-Image-Processing/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Digital-Image-Processing?style=flat-square" alt="Last Commit">
+  </a>
 </div>
 
 ---
